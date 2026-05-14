@@ -1,0 +1,10 @@
+{
+  "name": "previdenciario-legal-br",
+  "version": "0.0.1",
+  "description": "Plugin jurídico de Direito Previdenciário brasileiro — INSS, Reformas 2019 e 2023, BPC-LOAS, aposentadorias, auxílios e cálculos de tempo de contribuição. Apoio a advogado previdenciarista BR — output sempre é rascunho pra revisão.",
+  "author": {
+    "name": "RIA Systems",
+    "email": "suporte@riasistemas.com.br",
+    "url": "https://riasistemas.com.br"
+  }
+}

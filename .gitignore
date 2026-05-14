@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Build / dependências
+node_modules/
+dist/
+build/
+target/
+
+# SQLite local (audit trail dev)
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporários
+*.tmp
+*.bak

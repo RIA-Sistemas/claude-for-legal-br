@@ -1,0 +1,10 @@
+{
+  "name": "trabalhista-legal-br",
+  "version": "0.0.1",
+  "description": "Plugin jurídico de Direito do Trabalho brasileiro — CLT pós-Reforma 2017, Súmulas TST, cálculos de verbas rescisórias, triagem de reclamatórias trabalhistas. Apoio a advogado trabalhista BR — output sempre é rascunho pra revisão.",
+  "author": {
+    "name": "RIA Systems",
+    "email": "suporte@riasistemas.com.br",
+    "url": "https://riasistemas.com.br"
+  }
+}
